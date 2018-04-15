@@ -13,7 +13,7 @@ before_install:
 - npm install -g hexo-cli
 before_script:
 - git config --global user.name "fangzhengcn"
-- git config --global user.email jixianfz@gmail.com
+- git config --global user.email 916967300@qq.com
 install:
 - npm install
 script:
