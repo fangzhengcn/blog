@@ -5,8 +5,8 @@ branches:
   only:
   - master
 before_install:
-- openssl aes-256-cbc -K $encrypted_062dd552229c_key -iv $encrypted_062dd552229c_iv
-  -in travis.enc -out  ~/.ssh/id_rsa  -d
+# - openssl aes-256-cbc -K $encrypted_062dd552229c_key -iv $encrypted_062dd552229c_iv
+#  -in travis.enc -out  ~/.ssh/id_rsa  -d
 - chmod 600 ~/.ssh/id_rsa
 - export TZ='Asia/Shanghai'
 - npm install -g hexo
