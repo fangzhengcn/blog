@@ -100,7 +100,7 @@ categories: "objectC语言学习"
 
  ## synthesize
 
- 1、@property 只能生成getter和setter的声明，实现还是需要自己实现。
+ 1、@property 只能生成getter和setter的声明，实现还是需要自己实现。
  2、@synthesize作用： 自动生成getter、setter方法的实现，所以应该写在类的实现之中。
  3、语法： @synthesize @property名称；
  4、 @synthesize做的事情
@@ -153,7 +153,7 @@ categories: "objectC语言学习"
 
 ## NSObject 和id指针
 
-1、 NSObject时OC 中所有类的基类，根据LSP NSObject指针就可以指向任意的OC对象，所以，NSObject指针是一个万能指针
+1、 NSObject时OC 中所有类的基类，根据LSP NSObject指针就可以指向任意的OC对象，所以，NSObject指针是一个万能指针
 缺点： 如果要调用指向的子类对象独有的方法，就必须做类型转换
 2、id指针，是一个万能指针，可以指向任意的OC对象
 
