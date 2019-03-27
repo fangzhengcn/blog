@@ -216,7 +216,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Post meta display settings
@@ -568,7 +568,7 @@ busuanzi_count:
 # tencent_analytics:
 
 # Tencent MTA ID
-# tencent_mta:
+tencent_mta: 500675900
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
