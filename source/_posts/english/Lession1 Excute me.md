@@ -7,7 +7,7 @@ categories: "英语学习"
 ---
 
 # LESSON 1 Excuse me!
-## Listen to the tape then answer the question. Whose handbag is it?
+## Whose handbag is it?
 > Excuse me！
 > Yes?
 > Is this your handbag?
