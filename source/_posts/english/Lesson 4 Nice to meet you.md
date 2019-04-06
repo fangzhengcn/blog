@@ -53,6 +53,8 @@ categories: "英语学习"
 > XIAOHUI:  
 >> Nice to meet you.
 
+---
+
 ## New words and expressions
 words | 中文 | words | 中文 
 --- | --- | --- | ---
@@ -66,6 +68,8 @@ Japanese | adj.&n.日本的；日本人 | new | 新的
 Korean | adj.&n.韩国的；韩国人 | student | 学生
 Chinese | adj.&n.中国的；中国人 | French | adj.&n.法国的；法国人
 too | 也
+
+---
 
 ## 单词
 1、 suit：（n.)一套衣服，一般指同一种料子的整套衣服
@@ -94,6 +98,8 @@ too | 也
 - granddaughter 孙女/外孙女
 - daughter-in-law 儿媳妇
 - doctor (注意发声容易混淆)医生
+
+---
 
 ##  句型
 1、 Good morning.Good morning ,Mr.Blake.
@@ -126,6 +132,8 @@ Germans ：  德国人（复数）
 7、 And this is Xiaohui.She's Chinese,too. Nice to meet you
 too:(adv.)也
 用法： 当表示“也/又/还”时，常常用于肯定句或者一般疑问句。比如： Me,too.
+
+---
 
 ## 翻译
 
