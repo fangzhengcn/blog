@@ -10,7 +10,7 @@ categories: "英语学习"
 
 ## 单词
 1、 make:(n.)产品的品牌；(制造某物的)厂家名称
-- brand 品牌（口语中提到Nike等品牌往往用改词）
+- brand 品牌（口语中提到Nike等品牌往往用该词）
 
 2、 make:(v.) 制造/制作
 
@@ -69,7 +69,7 @@ categories: "英语学习"
 瑞典 | Sweden | Swede | Swedes | Swedish | Swedish
 意大利 | Italy | Italian | Italians | Italian | Italian
 日本 | Japan | Japanese | Japanese | Japanese | Japanese
-韩国 | the south of Korea | Korean | Koreans | Korean | Korean
+韩国 | South Korea | Korean | Koreans | Korean | Korean
 法国 | France | Frenchman、Frenchwoman | Frenchmen、Frenchwomen | French | French
 德国 | Germany | German |Germans | German | German
 
