@@ -1,0 +1,22 @@
+---
+title: 英语学习第八课 How are you today? 你今天好吗？
+date: 2019-04-08 11:46:33
+tags: 
+  - "初级英语"
+categories: "英语学习"
+---
+# How are you today
+## How is Emma?
+> STEVEN: Hello,Helen.
+> HELEN: Hi,Steven.
+
+> STEVEN: How are you today?
+> HELEN: I'm very well,thank you.And you?
+
+> STEVEN: I'm fine,thanks.
+> STEVEN: How is Tony?
+> HELEN: He's fine,thanks.How's Emma?
+> STEVEN: She's very well,too,Helen.
+
+> STEVEN: Goodbye,Helen.Nice to see you.
+> HELEN: Nice to see you,too,Steven. Goodbye.
