@@ -87,7 +87,7 @@ clean | 干净的
 
 ---
 ## 翻译
-1、看！ 那个女警察很胖，她是一位胖的女警察。
+1. 看！ 那个女警察很胖，她是一位胖的女警察。
 Look! That policewoman is very fat. She is a fat policewoman.
 2. 瞧！ 这位机械师很脏。他每天都很忙。
 Look! This mechanic is very  dirty. He is very busy everyday.
