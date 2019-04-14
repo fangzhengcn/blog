@@ -60,8 +60,8 @@ carpet | 地毯
  - Water is colorless
  - Your face is colorless
  - This is a colorless little town
- - colorfast (adj.)不褪色的 【英式写法】 colourfast
- - color film 彩色电影 【英式写法】 colour film
+- colorfast (adj.)不褪色的 【英式写法】 colourfast
+- color film 彩色电影 【英式写法】 colour film
 
 3. green:(n./adj.)绿色；绿色的
 - green light 绿色交通灯
