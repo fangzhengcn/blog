@@ -31,6 +31,7 @@ categories: "英语学习"
 ---
 ## New words and expressions
 words | 中文 | words | 中文
+--- | --- | --- | ---
 customs | 海关 | Norwegian | 挪威的，挪威人
 officer | 官员 | passport | 护照
 girl | 女孩，姑娘 | brown | 棕色的

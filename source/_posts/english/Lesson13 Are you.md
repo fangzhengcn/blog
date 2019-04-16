@@ -8,6 +8,7 @@ categories: "英语学习"
 # Are you……?
 ## New words and expressions 
 words | 中文 | words | 中文
+--- | --- | --- | ---
 Russian | 俄罗斯的；俄罗斯人 | grey | 灰色的
 Dutch | 荷兰的；荷兰人 | yellow | 黄色的
 these | 这些（this)的复数 | black | 黑色的
