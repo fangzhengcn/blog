@@ -35,7 +35,7 @@ matter | 事情 | Mum | 妈妈
 children | 孩子们 | sit down | 坐下
 tired | 累，疲乏 | right | 好，可以
 boy | 男孩 | ice cream | 冰淇凌 
-thirty | 渴
+thirsty | 渴
 
 ---
 
@@ -43,7 +43,7 @@ thirty | 渴
 1、 matter (n.)事情，情况
 - 比如，the heart of the matter
 - 而且，在用于表示某件具体的事情时，the定冠词往往要加上。 The heart of the matter is money.
-- It doesn't matter.这里的本词时一个动词，相当于“要紧”
+- It doesn't matter.这里的本词是一个动词，相当于“要紧”
  - 口语中： Oh,sorry. It doesn't matter.
  - 或者 ‘Tom,what do you want?' -- 'Green tea,black tea,it doesn't matter' 这里的意思时“无所谓，都行！”
 
@@ -55,15 +55,15 @@ thirty | 渴
 3、 此外，形容表示口渴的形容词，thirsty
 - I am thirsty.
 - I am thirsty for love. 我渴望得到爱。
-- 本词时由名词 thirst 后面加了一个表示形容词的词尾“y"演变而来。作为名词 thirst 表示口渴或是对于某种东西、某种目标的渴求。 
+- 本词是由名词 thirst 后面加了一个表示形容词的词尾“y"演变而来。作为名词 thirst 表示口渴或是对于某种东西、某种目标的渴求。 
  - My thirst for learning is real.
 
 ---
 ## 句型
 1、 What is the matter,children? We are tired and thirsty,Mum.
-本句相当于 What is wrong 或者 Tell me what's wrong. 这种句子通常时用来询问发生了什么事情。假如要特别提及某人，则可在后面加上介词with。
+本句相当于 What is wrong 或者 Tell me what's wrong. 这种句子通常是用来询问发生了什么事情。假如要特别提及某人，则可在后面加上介词with。
 - Tell me what's wrong with your dog.
-- 询问情况，还可以问： What's the matter(with you)?  用这句话，更体现询问的时具体的这件事情本身。
+- 询问情况，还可以问： What's the matter(with you)?  用这句话，更体现询问的是具体的这件事情本身。
 
 2、 Sit dow here.Are you all right now? No, we aren't.
 - 用法a. 安全的/健康的 ，例如上句
