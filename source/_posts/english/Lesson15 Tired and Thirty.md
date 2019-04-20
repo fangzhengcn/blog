@@ -5,10 +5,10 @@ tags:
   - "初级英语"
 categories: "英语学习"
 ---
-# Thired and Thirsty
+# Tired and Thirsty
 ## Why do the children thank their mother
 > MOTHER: What's the matter,children?
-> GIRL: We're tired…… and thirty,Mum.
+> GIRL: We're tired…… and thirsty,Mum.
 
 > MOTHER: Sit down here.
 
