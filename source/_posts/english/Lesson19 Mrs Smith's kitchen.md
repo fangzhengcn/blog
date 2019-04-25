@@ -110,7 +110,7 @@ middle (adj.)中间的
 ## 翻译
  这里是Tom在上海的大厨房。在厨房的右手边有一个黑色的冰箱，在厨房的左手边有一个白色的微波炉。在厨房的正中间有一张中国产的茶几。在茶几上面三个茶杯和两只盘子。在左边的盘子上，有两把罐头刀。在右边的盘子上，有一把切肉刀。Tom并不是一个好的厨师，不过，他很喜欢菜园子。
 
-- chopper (粗切用)肉刀
+
  This is Tom's big kitchen in Shanghai.There is a black refrigerator on the right in the kitchen.There is a white microwave oven on the left in the kitchen.There is a Chinese tea table in the middle of the kitchen.There are three cups and two plates on the tea table.There are two  can-opener on the left plate.There is a chopper on the right plate.Tom is not a good cook,but he likes kitchen garden very much.
 
 
