@@ -1,10 +1,4 @@
----
-title: 英语学习第十九课 Mrs. Smith's kitchen 史密斯太太的厨房
-date: 2019-04-22 23:19:30
-tags: 
-  - "初级英语"
-categories: "英语学习"
----
+ 
 # Mrs. Smith's kitchen
 ## What colour is the electric cooker? 电灶是什么颜色的？
 

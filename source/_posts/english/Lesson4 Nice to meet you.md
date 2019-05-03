@@ -85,9 +85,9 @@ too | 也
 - school report （英国） 学生成绩单
 
 3、 teacher：（n.)教师
+
 - teach （v.)教学 I teach you.我教你。
 - teaching (n.)教学工作（注意，它是不可数）
-
 
 4、 son (n.)儿子
 - grandson 孙子/外孙
@@ -95,6 +95,7 @@ too | 也
 - sun (注意发音一致，前面常常带the)太阳
 
 5、 daughter: (n.)女儿
+
 - granddaughter 孙女/外孙女
 - daughter-in-law 儿媳妇
 - doctor (注意发声容易混淆)医生
