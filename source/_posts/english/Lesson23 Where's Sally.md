@@ -103,7 +103,7 @@ Where are you eating an apple?
 你和Tom在卧室里干嘛呢？
 What are you and Tom doing in the bedroom?
 我和他在卧室里正在看电视。
-I and he are watching TV in the bedroom.
+He and I are watching TV in the bedroom.
 你和他在哪里看电视呢？
 Where are you and he watching TV?
 
