@@ -139,7 +139,7 @@ Can you give this old cellphone to me？
 Of course!
 
 甲： 那太感谢了。这真是一台挺好看的手机。
-Thank you so much. This is  a nicd/smart cellphone.
+Thank you so much. This is  a nice/smart cellphone.
 
 
 
