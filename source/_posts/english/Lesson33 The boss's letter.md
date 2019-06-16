@@ -36,6 +36,8 @@ words | 中文 | words | 中文
 can | model verb 能够 | ask | v.请求，要求
 boss | n.老板、上司 | handwriting | n.书写 
 minute | n.分（钟） | terrible | adj.糟糕的，可怕的
+lift | v.拿起，搬起，举起 | biscuit | n.饼干
+cake | n.饼，蛋糕
 
 ---
 
