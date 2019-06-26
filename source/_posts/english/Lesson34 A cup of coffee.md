@@ -81,7 +81,7 @@ b.同义词辨析：
  - 注意： 若enjoy后面是一个动词，需要用该动词的ing形式，这个是固定用法
  - I enjoy eating cakes.
 - be fond of (对……感兴趣，而且这个兴趣一时半会儿不会消退)
- - I am fond of Shipanpan.
+ - I am fond of Ship.
  - She is fond of samll cats.
  - You are fond of buying new shoes.
 
