@@ -15,8 +15,8 @@ before_install:
 - ssh-add ~/.ssh/id_rsa
 # 添加ssh配置文件
 - cp .travis/ssh_config ~/.ssh/config
-- npm install -g hexo
-- npm install -g hexo-cli
+- npm install -g hexo --force
+- npm install -g hexo-cli --force
 before_script:
 - git config --global user.name "fangzhengcn"
 - git config --global user.email 916967300@qq.com
