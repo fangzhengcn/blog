@@ -16,7 +16,7 @@ garlic | 大蒜、蒜头 一般不可数 | carrot | 胡萝卜 复数： carrots
 lettuce | 生菜 复数： lettuces | potato | 土豆 复数： potatoes
 red cabbage | 紫甘蓝 复数：cabbages | cabbage | 卷心菜 复数 cabbages
 eggplant | 茄子 复数：eggplants | mushroom | 蘑菇 复数： mushrooms
-zucchini | 绿皮西葫芦、小胡瓜 复数： 不变或 zucchinis都对 | yellow pepper 复数： peppers
+zucchini | 绿皮西葫芦、小胡瓜，复数不变或zucchinis都对 | yellow pepper | 复数：peppers
 red pepper | 红菜椒 | artichoke | 洋蓟、洋百合 复数： artichokes
 corn | 玉米 不可数 | popcorn | 爆米花 
 beet | 甜菜 不可数 | broccoli | 不可数名词 
