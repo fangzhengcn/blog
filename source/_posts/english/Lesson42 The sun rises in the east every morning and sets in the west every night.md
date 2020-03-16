@@ -8,7 +8,8 @@ categories: "英语学习"
 
 
 ## 单词解析
-1、early adj.早的，早期的，早到的
+1、early adj.早
+的，早期的，早到的
 
 - In early summer,the weather is wonderful in Hangzhou.
 
