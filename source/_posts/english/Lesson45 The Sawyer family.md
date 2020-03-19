@@ -33,7 +33,7 @@ categories: "英语学习"
 
 ## New words and expressions
 
-words | 中文 ｜ words | 中文
+words | 中文 | words | 中文
 --- | --- | --- | ---
 live | v.住，生活 | usually | adv.通常
 stay | v.呆在，停留 | together  | adv.一起
