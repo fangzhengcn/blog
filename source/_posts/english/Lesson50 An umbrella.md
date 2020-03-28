@@ -6,7 +6,7 @@ tags:
 categories: "英语学习"
 ---
 
-## 
+## 音标
 
 1、 关于浊化：
 
@@ -72,7 +72,6 @@ LA [eh•Lay] 美国洛杉矶
 - 绵羊 sheep -- sheep
 - 鹿 deer -- deer
 
-
 词根词缀 -er -or -ess -ant -ee
 
 - 工人： worker
@@ -88,7 +87,7 @@ LA [eh•Lay] 美国洛杉矶
 其中，实意动词包含： 及物动词，不及物动词；
 非实意动词包含有： 助动词、系动词（be动词是其中一类）、情态动词。
 
-例如： 
+例如：
 
 - I want some money. 及物动词
 - Wait,Tom! 不及物动词
@@ -140,7 +139,6 @@ be动词
 - I empty the box.
 - Please open the door and air the room.
 
-
 ## 第三类： 形容词和副词
 
 形容词一般修饰名词，表示名词的特征，例如 smart,clean,beautiful,dirty
@@ -160,8 +158,8 @@ be动词
 
 in / on / at / into / off / with / by / along / from……to /
 between……and……/ over / under / above / in front of…… / in the front of……/
-in the middle of ……/ like / for / out of …/ next to …… / beside / 
-near / behind / across / after / around 
+in the middle of ……/ like / for / out of …/ next to …… / beside /
+near / behind / across / after / around
 
 - Don't stand behind the door.
 - I run after her.
@@ -177,24 +175,3 @@ near / behind / across / after / around
 - In the middle of + 时间段： 在某段时间的中间
 - After + 时间点，表示这个时间点之后
 - for + 时间段，表示某件事或某个状态、动作等在这个时间段内持续发生
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
